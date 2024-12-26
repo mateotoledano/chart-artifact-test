@@ -1,0 +1,1 @@
+Test para subir chart de helm desde Github a Artifact Hub.
